@@ -1,0 +1,6 @@
+
+.countdown > div {display: inline-block;width: 25%;border-right: 1px solid #ececec;}
+.countdown > div:last-child {border-right: 0}
+.countdown-container {float: left: ;width: 100%;position: relative;}
+.countdown-container .countdown-heading { font-size: 10px; color: #3a54d6; text-transform: uppercase; width: 100%; clear: both; float: left; line-height: 15px; position: absolute; bottom: -3px; left: 0; font-weight: 500;letter-spacing: 1px}
+.countdown-container .countdown-value { font-size: 28px; color: #111111; width: 100% !important; font-weight: 500; }
